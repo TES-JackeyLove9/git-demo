@@ -4,3 +4,4 @@ hello atGuiGu! hello Git!
 hello atGuiGu! hello Git!
 hello atGuiGu! hello Git!  合并冲突
 hello atGuiGu! hello Git!  合并冲突
+11111111111111111111111111111111111
