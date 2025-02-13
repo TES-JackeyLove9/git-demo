@@ -3,4 +3,4 @@ hello atGuiGu! hello Git!  3333333333
 hello atGuiGu! hello Git!
 hello atGuiGu! hello Git!
 hello atGuiGu! hello Git!  合并冲突
-hello atGuiGu! hello Git!
+hello atGuiGu! hello Git!  合并冲突
